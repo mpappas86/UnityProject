@@ -1,4 +1,4 @@
-UnityProject
-============
+UnityThirdPersonTutorial
+========================
 
-Tutorial Project
+Sample project showing third person camera behavior and Mecanim animations
